@@ -6,7 +6,7 @@
 
 ## **[Dataset](https://www.kaggle.com/datasets/shivajbd/jigsawpuzzle)**
 
-
+## **[MODEL](https://drive.google.com/file/d/1l8Syg0xFOucYTVOFvSqrbuRAe-jJEqhf/view?usp=sharing)**
 ---
 
 ##  **Technical Accuracy**
